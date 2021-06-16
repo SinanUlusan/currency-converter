@@ -19,6 +19,12 @@ body {
     box-shadow: 3px 0px 3px 0px lightgray;
 }
 
+h1 {
+    color: darkslategray;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
 .container .box {
     width: 100%;
     display: flex;
